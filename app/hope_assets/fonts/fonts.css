@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'JuraRegular';
+    src: url('JuraRegular/JuraRegular.eot');
+    src: url('JuraRegular/JuraRegular.eot') format('embedded-opentype'),
+    url('JuraRegular/JuraRegular.woff2') format('woff2'),
+    url('JuraRegular/JuraRegular.woff') format('woff'),
+    url('JuraRegular/JuraRegular.ttf') format('truetype'),
+    url('JuraRegular/JuraRegular.svg#JuraRegular') format('svg');
+}
+@font-face {
+    font-family: 'JuraMedium';
+    src: url('JuraMedium/JuraMedium.eot');
+    src: url('JuraMedium/JuraMedium.eot') format('embedded-opentype'),
+    url('JuraMedium/JuraMedium.woff2') format('woff2'),
+    url('JuraMedium/JuraMedium.woff') format('woff'),
+    url('JuraMedium/JuraMedium.ttf') format('truetype'),
+    url('JuraMedium/JuraMedium.svg#JuraMedium') format('svg');
+}
+@font-face {
+    font-family: 'JuraLight';
+    src: url('JuraLight/JuraLight.eot');
+    src: url('JuraLight/JuraLight.eot') format('embedded-opentype'),
+    url('JuraLight/JuraLight.woff2') format('woff2'),
+    url('JuraLight/JuraLight.woff') format('woff'),
+    url('JuraLight/JuraLight.ttf') format('truetype'),
+    url('JuraLight/JuraLight.svg#JuraLight') format('svg');
+}
